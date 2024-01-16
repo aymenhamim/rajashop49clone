@@ -51,7 +51,7 @@ p{
     color: var(--white) ;
     background-color: var(--white) !important;
     box-shadow: 5px 5px 20px rgba(124, 124, 124, 0.288);
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 .link{
     color: #0f7712 !important;
